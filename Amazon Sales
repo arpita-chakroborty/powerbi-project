@@ -1,0 +1,24 @@
+# powerbi-project
+KPI Essentials for Monitoring Amazon Sales Performance 
+
+ YTD Sales: Continuously monitor year-to-date sales to evaluate overall revenue trends and long-term growth.
+ QTD Sales: Track quarterly sales to identify seasonal trends and fluctuations that inform agile business adjustments.
+ YTD Products Sold: Analyze the total number of products sold year-to-date to gain insight into product
+ demand and movement.
+ YTD Reviews: Keep an eye on year-to-date product reviews to understand customer feedback and
+ satisfaction, helping to align product offerings with consumer expectations.
+Charting Requirements for Comprehensive Sales Analysis 
+
+ To deliver insightful visualizations for sales analytics, consider these chart types:
+
+ YTD Sales by Month (Line Chart): Essential for visualizing monthly sales trends,
+ identifying seasonal patterns, and understanding long-term growth trajectories.
+ YTD Sales by Week (Column Chart): Provides weekly sales data to reveal short-term
+ fluctuations and performance insights.
+ Sales by Product Category (Text/Heat Map): Utilize this to display an overview of sales
+ across various product categories, offering an at-a-glance view of top-performing
+ segments.
+ Top 5 Products by YTD Sales (Bar Chart): Highlights the leading products driving
+ revenue, guiding strategic focus on key revenue generators.
+ Top 5 Products by YTD Reviews (Bar Chart): Shows the most reviewed products to
+ help gauge customer preferences and satisfaction
